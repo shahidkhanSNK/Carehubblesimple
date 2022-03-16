@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-20T04:54:19 EST" name="Default suite" finished-at="2022-02-20T04:54:59 EST" duration-ms="40049">
+    <groups>
+    </groups>
+    <test started-at="2022-02-20T04:54:19 EST" name="Default test" finished-at="2022-02-20T04:54:59 EST" duration-ms="40049">
+      <class name="Test.Testcases">
+        <test-method is-config="true" signature="setuptest()[pri:0, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:19 EST" name="setuptest" finished-at="2022-02-20T04:54:29 EST" duration-ms="10822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuptest -->
+        <test-method signature="loginwithInvalidEmail()[pri:0, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:29 EST" name="loginwithInvalidEmail" finished-at="2022-02-20T04:54:33 EST" duration-ms="3952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInvalidEmail -->
+        <test-method signature="loginwithInvalidPassword()[pri:1, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:33 EST" name="loginwithInvalidPassword" finished-at="2022-02-20T04:54:34 EST" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInvalidPassword -->
+        <test-method signature="loginwithEmptyFields()[pri:2, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:34 EST" name="loginwithEmptyFields" finished-at="2022-02-20T04:54:37 EST" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithEmptyFields -->
+        <test-method signature="loginwithValidData()[pri:3, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:37 EST" name="loginwithValidData" finished-at="2022-02-20T04:54:41 EST" duration-ms="3449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidData -->
+        <test-method signature="securitycode()[pri:4, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:41 EST" name="securitycode" finished-at="2022-02-20T04:54:51 EST" duration-ms="10349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- securitycode -->
+        <test-method signature="headerDropdown()[pri:5, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:51 EST" name="headerDropdown" finished-at="2022-02-20T04:54:51 EST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerDropdown -->
+        <test-method signature="profilemenuoption()[pri:6, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:51 EST" name="profilemenuoption" finished-at="2022-02-20T04:54:58 EST" duration-ms="6275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilemenuoption -->
+        <test-method is-config="true" signature="teardowntest()[pri:0, instance:Test.Testcases@49912c99]" started-at="2022-02-20T04:54:58 EST" name="teardowntest" finished-at="2022-02-20T04:54:59 EST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardowntest -->
+      </class> <!-- Test.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
